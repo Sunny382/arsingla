@@ -1,0 +1,1 @@
+Mail sending failed at 2025-01-29 11:20:20. Error: 
